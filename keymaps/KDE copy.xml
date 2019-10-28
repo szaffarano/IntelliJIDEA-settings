@@ -1,0 +1,3 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ServiceView.GroupByServiceGroups" />
+</keymap>
