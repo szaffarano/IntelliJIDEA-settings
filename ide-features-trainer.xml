@@ -43,7 +43,7 @@
         <entry key="Refactoring Menu" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
-        <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="PASSED" />
         <entry key="Refactorings.Rename" value="PASSED" />
         <entry key="Rename" value="NOT_PASSED" />
         <entry key="Select" value="PASSED" />
@@ -242,8 +242,8 @@
         <entry key="Refactorings.RefactoringBasics">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1571487902109" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="772053130" />
             </StatisticData>
           </value>
         </entry>

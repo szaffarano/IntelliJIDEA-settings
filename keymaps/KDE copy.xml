@@ -1,3 +1,6 @@
 <keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="FileChooser.GotoHome" />
   <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
 </keymap>
