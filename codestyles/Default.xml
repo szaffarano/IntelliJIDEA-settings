@@ -1,7 +1,10 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="SOFT_MARGINS" value="80" />
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
+    <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
