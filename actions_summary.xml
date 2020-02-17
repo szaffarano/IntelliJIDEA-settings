@@ -1,0 +1,95 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="Compile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581903049581" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Debugger.EditFrameSource">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581903004034" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditSource">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581903005608" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Exit">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902723676" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Maven.ReimportProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902987647" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="OpenModuleSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902869323" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ShowSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902799011" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="WelcomeScreen.OpenProject">
+          <value>
+            <ActionSummary>
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.notification.NotificationAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902774002" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902802812" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.idea.maven.buildtool.MavenSyncConsole$startImport$restartAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581902886690" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
